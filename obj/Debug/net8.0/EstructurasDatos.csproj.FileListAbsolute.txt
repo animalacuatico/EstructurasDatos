@@ -1,0 +1,15 @@
+D:\Angelo\Programación\EstructurasDatos\bin\Debug\net8.0\EstructurasDatos.exe
+D:\Angelo\Programación\EstructurasDatos\bin\Debug\net8.0\EstructurasDatos.deps.json
+D:\Angelo\Programación\EstructurasDatos\bin\Debug\net8.0\EstructurasDatos.runtimeconfig.json
+D:\Angelo\Programación\EstructurasDatos\bin\Debug\net8.0\EstructurasDatos.dll
+D:\Angelo\Programación\EstructurasDatos\bin\Debug\net8.0\EstructurasDatos.pdb
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.AssemblyInfoInputs.cache
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.AssemblyInfo.cs
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.csproj.CoreCompileInputs.cache
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.sourcelink.json
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.dll
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\refint\EstructurasDatos.dll
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.pdb
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\EstructurasDatos.genruntimeconfig.cache
+D:\Angelo\Programación\EstructurasDatos\obj\Debug\net8.0\ref\EstructurasDatos.dll
