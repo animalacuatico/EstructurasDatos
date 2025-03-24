@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|d:\\angelo\\programaci\u00F3n\\estructurasdatos\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|solutionrelative:ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|d:\\angelo\\programaci\u00F3n\\estructurasdatos\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|d:\\angelo\\programaci\u00F3n\\estructurasdatos\\estructurasdatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|solutionrelative:estructurasdatos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|d:\\angelo\\programaci\u00F3n\\estructurasdatos\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|d:\\angelo\\programaci\u00F3n\\estructurasdatos\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ECA139A-881D-4DF4-8A0B-880ED721F8F9}|EstructurasDatos.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ejercicio4.cs",
-              "DocumentMoniker": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio4.cs",
-              "RelativeDocumentMoniker": "Ejercicio4.cs",
-              "ToolTip": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio4.cs",
-              "RelativeToolTip": "Ejercicio4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:55:27.089Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -55,28 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicio1.cs",
-              "DocumentMoniker": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio1.cs",
-              "RelativeDocumentMoniker": "Ejercicio1.cs",
-              "ToolTip": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio1.cs",
-              "RelativeToolTip": "Ejercicio1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Ejercicio3.cs",
+              "ToolTip": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio3.cs",
+              "RelativeToolTip": "Ejercicio3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:16:38.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ejercicio2.cs",
-              "DocumentMoniker": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio2.cs",
-              "RelativeDocumentMoniker": "Ejercicio2.cs",
-              "ToolTip": "D:\\Angelo\\Programaci\u00F3n\\EstructurasDatos\\Ejercicio2.cs",
-              "RelativeToolTip": "Ejercicio2.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:46:31.302Z",
+              "WhenOpened": "2025-03-24T18:08:53.806Z",
               "EditorCaption": ""
             }
           ]
