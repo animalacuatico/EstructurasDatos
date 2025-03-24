@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>EstructurasDatos.Ejercicio2</StartupObject>
+    <StartupObject>EstructurasDatos.Ejercicio4</StartupObject>
   </PropertyGroup>
 
 </Project>
